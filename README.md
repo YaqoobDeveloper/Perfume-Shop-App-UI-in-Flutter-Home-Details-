@@ -4,7 +4,20 @@ A soft **purple and white perfume shop** built with Flutter, with two screens: a
 
 The UI is split into small, reusable components, the same way you would structure a React Native app.
 
+## 📱 Screenshots
+
+### Home Screen
+
+<img width="858" height="900" alt="Perfume Shop Home Screen" src="https://github.com/user-attachments/assets/b451e93a-530b-4acb-a4d6-c3b16f10e9ca" />
+
+### Details Screen
+
+<img width="862" height="900" alt="Perfume Shop Details Screen" src="https://github.com/user-attachments/assets/522e4957-caaf-4b5a-afb3-b2b2edbaf8ce" />
+
 ## 🚀 Demo & Project
+
+🎬 **YouTube Short:**  
+https://youtube.com/shorts/sQWbFj4bWDo?si=B8OufHLEad9uegkx
 
 🌐 **Live Preview:**  
 https://yaqoobdeveloper.github.io/Perfume-Shop-App-UI-in-Flutter-Home-Details-/
@@ -29,7 +42,7 @@ https://github.com/YaqoobDeveloper/Perfume-Shop-App-UI-in-Flutter-Home-Details-
 
 ## 📁 Project Structure
 
-```
+```text
 lib/
 ├── main.dart
 ├── app.dart
